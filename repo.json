@@ -20,7 +20,7 @@
       "downloadUrl": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa"
     },
     {
-      "title": "Cool App 2",
+      "title": "Skibidi",
       "description": "Experience a whole new level of fun with Cool App 2 – packed with vibrant visuals and engaging features.",
       "iconUrl": "https://yourdomain.com/images/app2_icon.png",
       "bannerUrl": "https://yourdomain.com/images/app2_banner.png",
@@ -28,13 +28,13 @@
         "https://yourdomain.com/images/app2_screen1.png",
         "https://yourdomain.com/images/app2_screen2.png"
       ],
-      "developer": "Creative Coders",
+      "developer": "GYATT",
       "version": "2.1.3",
       "rating": 4.3,
       "downloadUrl": "https://appstore.com/coolapp2"
     },
     {
-      "title": "Cool App 3",
+      "title": "Knee Surgery",
       "description": "Dive into the world of interactive design with Cool App 3. Enjoy seamless animations and a bubbly UI experience.",
       "iconUrl": "https://yourdomain.com/images/app3_icon.png",
       "bannerUrl": "https://yourdomain.com/images/app3_banner.png",
@@ -44,7 +44,7 @@
         "https://yourdomain.com/images/app3_screen3.png",
         "https://yourdomain.com/images/app3_screen4.png"
       ],
-      "developer": "NextGen Solutions",
+      "developer": "My Knee Grows",
       "version": "3.0.0",
       "rating": 4.9,
       "downloadUrl": "https://appstore.com/coolapp3"
