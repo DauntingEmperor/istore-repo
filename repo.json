@@ -1,23 +1,21 @@
 {
   "repoInfo": {
-    "name": "Awesome Apps Repository",
-    "description": "A curated list of awesome, bubbly apps with cutting-edge designs and cool animations.",
+    "name": "iStore",
+    "description": "Official iStore Repo!",
     "updatedAt": "2025-02-10T12:00:00Z"
   },
   "apps": [
     {
-      "title": "Cool App 1",
-      "description": "Cool App 1 is an innovative application that brings you the latest in interactive design and animations.",
-      "imageUrl": "https://yourdomain.com/images/app1_main.png",
+      "title": "Minecraft: Java Edition",
+      "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk.",
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpojavlauncher-minecraft-java-edition-for-android.en.uptodown.com%2Fandroid&psig=AOvVaw1dweuO7FCavTdlyLyZVsDU&ust=1739320467676000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCo5uGvuosDFQAAAAAdAAAAABAE",
       "screenshots": [
-        "https://yourdomain.com/images/app1_screen1.png",
-        "https://yourdomain.com/images/app1_screen2.png",
-        "https://yourdomain.com/images/app1_screen3.png"
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.malavida.com%2Fen%2Fsoft%2Fpojavlauncher%2Fandroid%2F&psig=AOvVaw1dweuO7FCavTdlyLyZVsDU&ust=1739320467676000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiAgPCvuosDFQAAAAAdAAAAABAE"
       ],
-      "developer": "Innovative Devs",
+      "developer": "iStore",
       "version": "1.0.0",
       "rating": 4.7,
-      "downloadUrl": "https://appstore.com/coolapp1"
+      "downloadUrl": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa"
     },
     {
       "title": "Cool App 2",
