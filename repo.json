@@ -1,0 +1,51 @@
+{
+  "repoInfo": {
+    "name": "Awesome Apps Repository",
+    "description": "A curated list of awesome, bubbly apps with cutting-edge designs and cool animations.",
+    "updatedAt": "2025-02-10T12:00:00Z"
+  },
+  "apps": [
+    {
+      "title": "Cool App 1",
+      "description": "Cool App 1 is an innovative application that brings you the latest in interactive design and animations.",
+      "imageUrl": "https://yourdomain.com/images/app1_main.png",
+      "screenshots": [
+        "https://yourdomain.com/images/app1_screen1.png",
+        "https://yourdomain.com/images/app1_screen2.png",
+        "https://yourdomain.com/images/app1_screen3.png"
+      ],
+      "developer": "Innovative Devs",
+      "version": "1.0.0",
+      "rating": 4.7,
+      "downloadUrl": "https://appstore.com/coolapp1"
+    },
+    {
+      "title": "Cool App 2",
+      "description": "Experience a whole new level of fun with Cool App 2 – packed with vibrant visuals and engaging features.",
+      "imageUrl": "https://yourdomain.com/images/app2_main.png",
+      "screenshots": [
+        "https://yourdomain.com/images/app2_screen1.png",
+        "https://yourdomain.com/images/app2_screen2.png"
+      ],
+      "developer": "Creative Coders",
+      "version": "2.1.3",
+      "rating": 4.3,
+      "downloadUrl": "https://appstore.com/coolapp2"
+    },
+    {
+      "title": "Cool App 3",
+      "description": "Dive into the world of interactive design with Cool App 3. Enjoy seamless animations and a bubbly UI experience.",
+      "imageUrl": "https://yourdomain.com/images/app3_main.png",
+      "screenshots": [
+        "https://yourdomain.com/images/app3_screen1.png",
+        "https://yourdomain.com/images/app3_screen2.png",
+        "https://yourdomain.com/images/app3_screen3.png",
+        "https://yourdomain.com/images/app3_screen4.png"
+      ],
+      "developer": "NextGen Solutions",
+      "version": "3.0.0",
+      "rating": 4.9,
+      "downloadUrl": "https://appstore.com/coolapp3"
+    }
+  ]
+}
